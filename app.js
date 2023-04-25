@@ -16,7 +16,7 @@ switch (comando) {
             update(param1, param2);
             break;
         case "delete" :
-            deleteTitle(param1, param2);    
+            deleteTitle(param1);    
         break;
     default:
         console.log("El comando no coincide");
