@@ -7,4 +7,4 @@ CRUD (Create, Read, Update, Delete). Maneras en las que se puede operar sobre in
 
 Ejecutar con 'node app comando parametro1 parametro2'.
 
-Echo en ICARO
+Hecho en ICARO
